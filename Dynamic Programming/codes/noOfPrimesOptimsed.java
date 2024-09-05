@@ -1,4 +1,4 @@
-class noOfPrimesOptimsed{
+ class noOfPrimesOptimsed{
     static int dp[];
     public boolean isPrime(int i,int n)
     {
